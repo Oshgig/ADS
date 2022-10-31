@@ -1,2 +1,3 @@
 # ADS
 Code
+print("Hello")
